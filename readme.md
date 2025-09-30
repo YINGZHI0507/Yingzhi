@@ -1,4 +1,4 @@
-# Hallo, I'm Yingzhi 👋
+# Hello, I'm Yingzhi 👋
 
 I'm currently a MSc Statistics (Statistical Finance) at Imperial. 
 I have a strong interest in financial modeling, data analysis, and playing badminton as my hobby. ([Linkedin](https://www.linkedin.com/yingzhi-zhang-wendy/))
